@@ -12,7 +12,8 @@
         "app": "./index.js"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "build": "pkg ."
     },
     "dependencies": {
         "pkg": "^4.3.4"
